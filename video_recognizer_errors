@@ -1,0 +1,1 @@
+2022-08-25 11:17:22.354 | ERROR    | __main__:change_tic:27 - 10.74.18.38:27017: timed out, Timeout: 30s, Topology Description: <TopologyDescription id: 63072ff331ee66ddac60c888, topology_type: Unknown, servers: [<ServerDescription ('10.74.18.38', 27017) server_type: Unknown, rtt: None, error=NetworkTimeout('10.74.18.38:27017: timed out')>]>
